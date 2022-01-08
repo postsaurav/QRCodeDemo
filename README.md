@@ -11,5 +11,6 @@ Saurav Dhyani
 #bcopendiscussion. https://bit.ly/msdyn365bcopendiscussion
 
 # Reference Session Recording
+https://youtu.be/Tqa_7I9NxW8
 
 # Reference Article
